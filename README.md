@@ -18,5 +18,7 @@ Evaluación continua 02 de Lenguaje de Programación II - Ciclo 4.
 
 
 
-Version modificada concurrentemente por rama main
+
+Gestión de ramas
+Funcionalidad desarrollada e integrada entre ramas para el control de versiones del proyecto.
 
